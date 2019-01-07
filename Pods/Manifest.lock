@@ -1,0 +1,16 @@
+PODS:
+  - RevealServer (1.3.3)
+
+DEPENDENCIES:
+  - RevealServer (from `./RevealServer`)
+
+EXTERNAL SOURCES:
+  RevealServer:
+    :path: "./RevealServer"
+
+SPEC CHECKSUMS:
+  RevealServer: 9b3bec625729b3d6ab90259499051b41fe5d4154
+
+PODFILE CHECKSUM: 3ccea351ce32cacab96ffeacd966d246dc3eba35
+
+COCOAPODS: 1.2.0
